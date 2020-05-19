@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">D2K Assignment</string>
+    <string name="no_combination_is_avaible_in_favourite">No combination is avaible in favourite</string>
+    <string name="favourite">Favourite</string>
+</resources>

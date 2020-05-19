@@ -1,0 +1,2 @@
+rootProject.name='D2K Assignment'
+include ':app'
